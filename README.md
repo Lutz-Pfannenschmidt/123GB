@@ -1,2 +1,2 @@
-# Schild-NRW Lehrer durchschnittliche Wochenstunden pro Halbjahr berechner
-Brechnet die durchschnittliche Wochenstunden pro Halbjahr für Lehrer in NRW anhand des exel exports aus Schild-NRW.
+# NRW-Lehrer Durchschnittliche Wochenstunden pro Halbjahr berechnen
+Dieses Programm berechnet die durchschnittliche Anzahl von Wochenstunden pro Halbjahr für Lehrer in Nordrhein-Westfalen anhand eines Excel-Exports aus Schild-NRW.
